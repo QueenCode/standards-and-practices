@@ -149,6 +149,7 @@ Format:
 | Jay Damodaran | [JayNelson](https://github.com/JayNelson) ||
 | Jeffrey Smith | [jtsmith0107](https://github.com/jtsmith0107) | Some Basic C++ and Java knowledge
 | Jesse Pitstick | [Jesse Pitstick](https://github.com/JessePitstick) | Spent three years studying CS at MSU, dropped out to pursue other interests, looking to rekindle the flame |
+| Jessica Brown | [QueenCode](https://github.com/QueenCode) | I am most experienced with JavaScript. I have completed courses for JavaScript, HTML, CSS, jQuery, and PHP on Codecademy. |
 | Jeremy Neptune | [jerenept](https://github.com/jerenept) | Basically proficient in Python and Pascal (But more Python, really). Interested in learning more and contributing to open-source software. |
 | Jim Aldon D'Souza | [jimdsouza] (https://githum.com/jimdsouza) ||
 | Jim Eiche | [Spawnbroker](https://github.com/Spawnbroker) | Senior computer science student, experience with Java, C#, C++ |
